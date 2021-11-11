@@ -1,0 +1,14 @@
+textarea {resize: vertical;
+}
+
+
+body {
+    background-color: rgb(21, 166, 169);}
+
+select:hover {
+    background-color: rgb(196, 28, 56); }
+   
+
+button:active {
+        background-color: rgb(169, 5, 33); }
+       
